@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <main class="main">
+      <header>
+        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        {% if site.description %}<p class="site-desc">{{ site.description }}</p>{% endif %}
+      </header>
+
+      {{ content }}
+
+      <footer class="site-footer">
+        {% if site.email %}<a href="mailto:{{ site.email }}">{{ site.email }}</a>{% endif %}
+      </footer>
+    </main>
+  </body>
+</html>
