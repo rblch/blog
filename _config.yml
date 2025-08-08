@@ -1,4 +1,4 @@
-title: "My Blog"
-description: "Thoughts, notes, and experiments."
+title: "/rblch"
+description: "Thoughts & notes."
 theme: minima
 plugins: [jekyll-feed, jekyll-seo-tag]
