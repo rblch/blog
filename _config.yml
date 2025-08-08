@@ -1,4 +1,4 @@
 title: "/rblch"
-description: "Thoughts & notes."
+description: "thoughts & notes."
 theme: minima
 plugins: [jekyll-feed, jekyll-seo-tag]
