@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-09T10:42:34+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">/rblch</title><subtitle>thoughts &amp; notes.</subtitle><entry><title type="html">Slow Takeoff</title><link href="http://localhost:4000/2025/08/09/slow-take-off.html" rel="alternate" type="text/html" title="Slow Takeoff" /><published>2025-08-09T00:00:00+02:00</published><updated>2025-08-09T00:00:00+02:00</updated><id>http://localhost:4000/2025/08/09/slow-take-off</id><content type="html" xml:base="http://localhost:4000/2025/08/09/slow-take-off.html"><![CDATA[<p>As Bill Gates once said about people, most overestimate what AI will do in two years and underestimate what it will do in ten.</p>
+
+<p>Yes, we’re undeniably living through an AI revolution. In just a few years, we’ve gone from celebrating a single coherent sentence in an otherwise garbled output to models that can write, code, and even reason—sometimes. And yet, outside of tech demos and niche workflows, the world still runs much like it did five years ago.</p>
+
+<p>History teaches us this is normal.</p>
+
+<p>The first commercially successful steam engine was built in 1712, but its broad economic impact only became significant in the early to mid-1800s, after decades of technical improvements, infrastructure expansion, and process redesign. Electricity began reaching factories in the 1880s, but widespread productivity gains didn’t occur until the 1920s, once production lines were reorganized to fully exploit electric power. The internet went mainstream in the 1990s, but significant productivity gains didn’t materialize until the mid-2000s, after businesses restructured processes to take advantange digital technologies.</p>
+
+<p>Breakthroughs arrive fast; benefits arrive slowly—only after new workflows, skills, incentives, governance, and infrastructure are in place.</p>
+
+<p>Like steam, electricity, and the internet, AI is a general-purpose technology with economy-wide potential. But also like its predecessors, it won’t reshape the world overnight.</p>
+
+<p>Why? Because using ChatGPT to write emails is not transformation; it’s bolting a new tool onto an old process.</p>
+
+<p>The real gains come when we redesign the process entirely: moving from auto-summarizing legal documents to changing how decisions are made, from adding AI to a helpdesk to rethinking the whole support flow. And that takes time. Capabilities need to mature. Trust has to build. Institutions must adapt.</p>
+
+<p>This is the slow takeoff that Sam Altman and others talk about.</p>
+
+<p>What needs to catch up?</p>
+<ul>
+  <li>Org structures: how decisions are made and work is coordinated.</li>
+  <li>Skills: a workforce fluent in working with AI.</li>
+  <li>Infrastructure: data pipelines, interfaces, and evaluation tools.</li>
+  <li>Regulation: guardrails that enable safe deployment.</li>
+  <li>Trust: reliability, transparency, and accountability in outputs.</li>
+</ul>
+
+<p>Catch up they will—or be left behind.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[As Bill Gates once said about people, most overestimate what AI will do in two years and underestimate what it will do in ten.]]></summary></entry><entry><title type="html">Every blog needs a first post.</title><link href="http://localhost:4000/2025/08/08/first-post.html" rel="alternate" type="text/html" title="Every blog needs a first post." /><published>2025-08-08T00:00:00+02:00</published><updated>2025-08-08T00:00:00+02:00</updated><id>http://localhost:4000/2025/08/08/first-post</id><content type="html" xml:base="http://localhost:4000/2025/08/08/first-post.html"><![CDATA[<p>This blog strips away everything unnecessary.<br />
+Built with Jekyll, a custom minimal layout, and deployed via GitHub Actions.</p>
+
+<p>No cookies. No ads. No distractions.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[This blog strips away everything unnecessary. Built with Jekyll, a custom minimal layout, and deployed via GitHub Actions.]]></summary></entry></feed>
