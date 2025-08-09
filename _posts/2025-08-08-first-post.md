@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "every blog needs a first post."
+title: "Every blog needs a first post"
 ---
 
 This blog strips away everything unnecessary.  

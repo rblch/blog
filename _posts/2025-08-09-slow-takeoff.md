@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "slow sakeoff"
+title: "Slow Takeoff"
 ---
 
 As Bill Gates once said about people, most overestimate what AI will do in two years and underestimate what it will do in ten.
